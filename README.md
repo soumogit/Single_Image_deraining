@@ -5,11 +5,17 @@ This project focuses on developing a machine learning model to remove rain strea
 ## 📂 Project Structure  
 
 ├── data_loader.py # Loads and preprocesses images from the dataset
+
 ├── derain_model.h5 # Pre-trained model for de-raining images
+
 ├── main.py # Main entry point for training and testing
+
 ├── model.py # Defines the CNN-based de-raining model
+
 ├── test.py # Tests the trained model on new images
+
 ├── test_model.py # Additional module for model evaluation
+
 ├── train.py # Trains the model using the dataset
 
 perl
