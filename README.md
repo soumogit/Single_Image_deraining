@@ -64,11 +64,10 @@ bash
 Copy
 Edit
 python test.py
-📜 License
+
+
+### 📜 License
 This project is open-source and free to use for research and development.
 
-vbnet
-Copy
-Edit
 
 This README is structured for GitHub, with clear module breakdowns, installation instructions, and execution 
